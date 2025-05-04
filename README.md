@@ -17,6 +17,4 @@ This was my first Python project while learning the basics of programming. The p
 
 6. Win/draw detection
 
-7. Option to play again
-
-8. Simple and easy-to-understand interface
+7. Simple and easy-to-understand interface
