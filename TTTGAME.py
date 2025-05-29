@@ -1,6 +1,6 @@
 #Defining Player 1 and 2 names
-Player_1_name = input('Please Enter your name: ')
-Player_2_name = input('Please Enter your name: ')
+Player_1_name = input('Please Enter Player 1's name: ')
+Player_2_name = input('Please Enter Player 2's name: ')
 
 print("Player 1 name is: ",Player_1_name)
 print("Player 2 name is: ",Player_2_name)
